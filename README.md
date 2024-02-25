@@ -38,9 +38,17 @@ To get started with the E-commerce API, follow these steps:
    npm start
    ```
 
+Great! In that case, you can update the README.md file to include a section about accessing the Swagger API documentation. Here's how you can do it:
+
 ## API Documentation
 
-The API documentation can be found in the Swagger documentation provided in the `swagger.yaml` file. This documentation includes details about each endpoint, such as the request parameters, response format, and examples.
+The API documentation is provided using Swagger UI and can be accessed at [http://localhost:8081/api-docs](http://localhost:8081/api-docs). Swagger documentation includes comprehensive details about each endpoint, including request parameters, response format, and examples. 
+
+To explore the API documentation:
+
+1. Open your web browser and navigate to [http://localhost:8081/api-docs](http://localhost:8081/api-docs).
+2. You'll see an interactive interface where you can browse and test each API endpoint.
+3. Use the provided documentation to understand how to interact with the API and make requests.
 
 ## Important Design Decisions
 
